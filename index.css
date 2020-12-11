@@ -1,0 +1,82 @@
+body {
+  background-color: red;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+
+.elfish {
+  width: 180px;
+  height: 180px;
+  background-image: url("./images/elfGirl.png");
+  background-position: center;
+}
+.hohoho {
+  width: 180px;
+  height: 180px;
+  background-image: url("./images/santaMerryChristmas.png");
+  background-position: center;
+}
+
+.bells {
+  width: 180px;
+  height: 180px;
+  background-image: url("./images/christmas-bells.png");
+  background-position: center;
+}
+
+.magic {
+  width: 180px;
+  height: 180px;
+  background-image: url("./images/magicChristmas.jpg");
+  background-position: center;
+}
+
+.deck {
+  width: 180px;
+  height: 180px;
+  background-image: url("./images/deckthehalls.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.fall {
+  width: 180px;
+  height: 180px;
+  background-image: url("./images/santaFall.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.buddy1 {
+  width: 180px;
+  height: 180px;
+  background-image: url("./images/buddy.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.fragile {
+  width: 180px;
+  height: 180px;
+  background-image: url("./images/fragile.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.bigTree {
+  width: 180px;
+  height: 180px;
+  background-image: url("./images/griswald.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.filthyAnimal {
+  width: 180px;
+  height: 180px;
+  background-image: url("./images/filthyanimal.png");
+  background-size: cover;
+  background-position: center;
+}
