@@ -1,6 +1,7 @@
 body {
   background-color: red;
 }
+
 h1 {
   color: white;
   text-align: center;
@@ -12,6 +13,7 @@ h1 {
   background-image: url("./images/elfGirl.png");
   background-position: center;
 }
+
 .hohoho {
   width: 180px;
   height: 180px;
